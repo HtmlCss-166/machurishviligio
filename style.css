@@ -1,0 +1,60 @@
+@font-face {
+font-family: 'alkatraregular';
+src: url(font/Alkatra-Regular.ttf);
+}
+
+#header1 {
+    font-family: 'alkatraregular';
+   height: 50px;
+   text-align: center;
+   font-size: 40px;
+   background-color: rgb(18, 18, 120);
+   
+}
+
+.container {
+    display: flex;
+}
+#pic1 {
+    width: 33%;
+}
+#pic2 {
+    width: 25%;
+}
+#pic3 {
+    width: 30%;
+}
+#text1 {
+    font-family: 'alkatraregular';
+    font-size: 23px;
+}
+#table1 {
+    font-family: 'alkatraregular';
+    font-size: 25px;
+    border: solid;
+    background-color: black;
+    color: gray;
+    
+
+}
+#text2 {
+    background-color: white;
+    border-radius: 15px;
+    border: 2px 5px;
+    padding: 15px;
+  
+    
+    
+}
+#Submit2  {
+    background-color: green;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px green;
+    border-radius: 15px;
+}
+
